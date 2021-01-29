@@ -21,3 +21,6 @@ I need to learn about:
 As -Shia LaBeouf_ once said :
 
 `JUST DO IT!`
+
+Day 1: Start the journey
+Day 2: Reading about Big O.
