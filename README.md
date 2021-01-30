@@ -24,3 +24,4 @@ As -Shia LaBeouf_ once said :
 
 Day 1: Start the journey
 Day 2: Reading about Big O.
+Day 3: Chapter IX, interview questions. 
