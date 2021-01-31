@@ -3,8 +3,13 @@ package crackingthecode;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		Ex1 ex1 = new Ex1();
+		
+		boolean result = ex1.evalString("coding");
+		
+		System.out.println(result);
+		
 	}
 
 }
