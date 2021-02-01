@@ -1,4 +1,4 @@
-package crackingthecode;
+package crackingthecode.excercises.arrays;
 
 public class Ex1 {
 
